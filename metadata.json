@@ -1,0 +1,6 @@
+{
+  "name": "Foxy Chat",
+  "description": "Cute and aesthetic private friend chat app with real-time messaging, photos, and online status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
